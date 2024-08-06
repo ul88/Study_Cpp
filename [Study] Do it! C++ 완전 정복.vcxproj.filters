@@ -69,5 +69,11 @@
     <ClCompile Include="8-2 가상 소멸자.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="8-3 추상 클래스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8-3 정적 멤버 활용 1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

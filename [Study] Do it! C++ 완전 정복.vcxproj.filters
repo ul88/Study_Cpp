@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\11장 C++ 표준 라이브러리">
       <UniqueIdentifier>{048436b7-a6a1-404c-9592-697f2966766d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\12장 STL의 컨테이너와 알고리즘">
+      <UniqueIdentifier>{f65114e2-e162-469f-8fd1-1f7efb629e0e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="6장 클래스.cpp">
@@ -146,6 +149,21 @@
     </ClCompile>
     <ClCompile Include="11-4 기타 함수.cpp">
       <Filter>소스 파일\11장 C++ 표준 라이브러리</Filter>
+    </ClCompile>
+    <ClCompile Include="12-1 컨테이너와 반복자.cpp">
+      <Filter>소스 파일\12장 STL의 컨테이너와 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="12-1 벡터.cpp">
+      <Filter>소스 파일\12장 STL의 컨테이너와 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="12-1 리스트.cpp">
+      <Filter>소스 파일\12장 STL의 컨테이너와 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="12-1 set.cpp">
+      <Filter>소스 파일\12장 STL의 컨테이너와 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="12-1 이진탐색.cpp">
+      <Filter>소스 파일\12장 STL의 컨테이너와 알고리즘</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

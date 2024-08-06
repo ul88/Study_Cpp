@@ -75,5 +75,23 @@
     <ClCompile Include="8-3 정적 멤버 활용 1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9-1 SOLID 원칙.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-1 단일 책임 원칙%28SRP%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-2 개방 폐쇄 원칙%28OCP%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-3 리스코프 치환 원칙%28LSP%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-4 인터페이스 분리 원칙%28ISP%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9-5 의존성 역전 원칙%28DIP%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

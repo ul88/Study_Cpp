@@ -138,5 +138,14 @@
     <ClCompile Include="10-2 템플릿 매개변수 기본값.cpp">
       <Filter>소스 파일\10장 템플릿</Filter>
     </ClCompile>
+    <ClCompile Include="11-2 문자열 라이브러리.cpp">
+      <Filter>소스 파일\11장 C++ 표준 라이브러리</Filter>
+    </ClCompile>
+    <ClCompile Include="11-3 파일 시스템.cpp">
+      <Filter>소스 파일\11장 C++ 표준 라이브러리</Filter>
+    </ClCompile>
+    <ClCompile Include="11-4 기타 함수.cpp">
+      <Filter>소스 파일\11장 C++ 표준 라이브러리</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -34,6 +34,12 @@
     <Filter Include="소스 파일\12장 STL의 컨테이너와 알고리즘">
       <UniqueIdentifier>{f65114e2-e162-469f-8fd1-1f7efb629e0e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\14장 새로운 데이터 형식과 라이브러리">
+      <UniqueIdentifier>{a0207dff-43ef-47cf-9d34-04dc8807c9a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\15장 새로운 구문 1">
+      <UniqueIdentifier>{3f360000-a6d4-4274-87a1-394f88295bd8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="6장 클래스.cpp">
@@ -164,6 +170,39 @@
     </ClCompile>
     <ClCompile Include="12-1 이진탐색.cpp">
       <Filter>소스 파일\12장 STL의 컨테이너와 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="14-1 auto.cpp">
+      <Filter>소스 파일\14장 새로운 데이터 형식과 라이브러리</Filter>
+    </ClCompile>
+    <ClCompile Include="14-1 decltype.cpp">
+      <Filter>소스 파일\14장 새로운 데이터 형식과 라이브러리</Filter>
+    </ClCompile>
+    <ClCompile Include="14-1 enum.cpp">
+      <Filter>소스 파일\14장 새로운 데이터 형식과 라이브러리</Filter>
+    </ClCompile>
+    <ClCompile Include="14-1 2진수 리터럴.cpp">
+      <Filter>소스 파일\14장 새로운 데이터 형식과 라이브러리</Filter>
+    </ClCompile>
+    <ClCompile Include="14-2 constexpr 변수.cpp">
+      <Filter>소스 파일\14장 새로운 데이터 형식과 라이브러리</Filter>
+    </ClCompile>
+    <ClCompile Include="14-2 constexpr 함수.cpp">
+      <Filter>소스 파일\14장 새로운 데이터 형식과 라이브러리</Filter>
+    </ClCompile>
+    <ClCompile Include="14-3 함자.cpp">
+      <Filter>소스 파일\14장 새로운 데이터 형식과 라이브러리</Filter>
+    </ClCompile>
+    <ClCompile Include="14-3 function 클래스.cpp">
+      <Filter>소스 파일\14장 새로운 데이터 형식과 라이브러리</Filter>
+    </ClCompile>
+    <ClCompile Include="14-4 스마트 포인터.cpp">
+      <Filter>소스 파일\14장 새로운 데이터 형식과 라이브러리</Filter>
+    </ClCompile>
+    <ClCompile Include="15-1 튜플과 구조적 바인딩.cpp">
+      <Filter>소스 파일\15장 새로운 구문 1</Filter>
+    </ClCompile>
+    <ClCompile Include="15-4 람다 표현식.cpp">
+      <Filter>소스 파일\15장 새로운 구문 1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
